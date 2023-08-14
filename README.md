@@ -15,5 +15,9 @@ The following package classes must be imported in the VBA developer tab to execu
 4. AppxManagerLib
 5. Microsoft ActiveX Data Objects 6.1 library
 
+## Usage
+The .bas and .vb files can be imported and adapted according to different needs related to automatic data manipulation with Excel developer VBA. 
+The Excel templates must keep the same worksheet name structure used in the macros. 
+
 
 
