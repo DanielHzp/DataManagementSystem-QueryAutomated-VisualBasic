@@ -19,7 +19,7 @@ The following package classes must be imported in the VBA developer tab to execu
 The .bas and .vb files can be imported and adapted according to different needs related to automatic data manipulation with Excel developer VBA. 
 The Excel templates must keep the same worksheet name structure used in the macros. 
 
-To test runtime execution of macros and windows forms, download the .xlsm files from Debugging root folder.
+To test runtime execution of macros and windows forms, download the .xlsm files from Source > Debugging root folders.
 
 Data handling structure:
 1. Sample data input .xlsm files gather data in separate datasets. The internal spreadsheet formats guide the user who inputs monthly operational data
