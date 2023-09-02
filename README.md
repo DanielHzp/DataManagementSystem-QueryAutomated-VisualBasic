@@ -23,8 +23,8 @@ To test runtime execution of macros and windows forms, download the .xlsm files 
 
 Data handling structure:
 1. Sample data input .xlsm files gather data in separate datasets. The internal spreadsheet formats guide the user who inputs monthly operational data
-2. The data repository .xlsm file centralizes all datasets and builds dashboards for each KPI to report. The main user sheet contains several buttons that open forms where all data sets can be loaded in a synchronized and logical way.
-3. When dataset import macros finish their exeuction, the data repository wprkbook must be refreshed to update all reporting dashboards
+2. The data repository .xlsm file centralizes all datasets and builds dashboards for each KPI report. The main user sheet contains several buttons that open forms where all data sets can be loaded in a synchronized and logical way.
+3. When dataset import macros finish their exeuction, the data repository workbook must be refreshed updating all reporting dashboards
 4. The dashboard menu .xlsm file reports corporate level data that summarizes the data repository dashboards. This file, displays a dynamic menu that helps the user navigate through all data views.
 
 
