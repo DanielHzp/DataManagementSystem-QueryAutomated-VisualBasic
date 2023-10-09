@@ -32,7 +32,10 @@ Data handling structure:
 <br/>
 
 ### User Dashboard Access
+<br/>
+
 <img src="NavegationMenu/UserProfileSystemAccess/MiscImages5/UserProfileCredentialsForm.JPG">
+<br/>
 
 <img src="NavegationMenu/DashboardNavigationMenu/MiscImages3/NavigationMenu.JPG">
 </br>
@@ -45,14 +48,20 @@ Data handling structure:
 </br>
 
 ### KPI Database Dashboard
+<br/>
+
 <img src="UserForms/DatasetImports/MiscImages1/DBDashboardKPI.JPG">
 <br/>
 
 ### Database Update Form
+<br/>
+
 <img src="UserForms/DatasetImports/MiscImages1/InputDataImportForm2.JPG" width="700" height="700">
 <br/>
 
 ### Data Report Summary Forms
+<br/>
+
 <img src="UserForms/DataReportingForms/MiscImages2/DBDataSummaryForm1.JPG" width="700" height="550">
 <br/>
 
@@ -66,6 +75,8 @@ Data handling structure:
 <br/>
 
 ### BI Report Views
+<br/>
+
 <img src="UserForms/DataReportingForms/MiscImages2/DataReportViewSample2.JPG">
 <br/>
 
