@@ -41,6 +41,8 @@ Data handling structure:
 </br>
 
 ### Data Entry Dashboard
+</br>
+
 <img src="Source/MiscImages4/DataEntrySample2.JPG" width="1000" height="500">
 </br>
 
