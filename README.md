@@ -26,17 +26,53 @@ Data handling structure:
 2. The data repository .xlsm file centralizes all datasets and builds dashboards for each KPI report. The main user sheet contains several buttons that open forms where all data sets can be loaded in a synchronized and logical way.
 3. When dataset import macros finish their execution, the data repository workbook must be refreshed updating all reporting dashboards
 4. The dashboard menu .xlsm file reports corporate level data that summarizes the data repository dashboards. This file, displays a dynamic menu that helps the user navigate through all data views.
-
+<br/>
 
 ## Layout
+<br/>
+
 ### User Dashboard Access
 <img src="NavegationMenu/UserProfileSystemAccess/MiscImages5/UserProfileCredentialsForm.JPG">
 
-<img src="NavegationMenu/DashboardNavigationMenu/MiscImages3/NavigationMenu.JPG" width="900" height="700">
+<img src="NavegationMenu/DashboardNavigationMenu/MiscImages3/NavigationMenu.JPG">
 </br>
 
 ### Data Entry Dashboard
 <img src="Source/MiscImages4/DataEntrySample2.JPG" width="1000" height="500">
+</br>
+
+<img src="Source/MiscImages4/DataEntrySample.JPG" width="1000" height="500">
+</br>
+
+### KPI Database Dashboard
+<img src="UserForms/DatasetImports/MiscImages1/DBDashboardKPI.JPG">
+<br/>
+
+### Database Update Form
+<img src="UserForms/DatasetImports/MiscImages1/InputDataImportForm2.JPG" width="700" height="700">
+<br/>
+
+### Data Report Summary Forms
+<img src="UserForms/DataReportingForms/MiscImages2/DBDataSummaryForm1.JPG" width="700" height="550">
+<br/>
+
+<img src="UserForms/DataReportingForms/MiscImages2/DataViewerSummaryForm2.JPG" width="700" height="550">
+<br/>
+
+<img src="UserForms/DataReportingForms/MiscImages2/DataViewerSummaryForm3.JPG" width="700" height="550">
+<br/>
+
+<img src="UserForms/DataReportingForms/MiscImages2/ReportsSummaryFormSample.JPG" width="700" height="550">
+<br/>
+
+### BI Report Views
+<img src="UserForms/DataReportingForms/MiscImages2/DataReportViewSample2.JPG">
+<br/>
+
+<img src="UserForms/DataReportingForms/MiscImages2/DataReportViewSample1.JPG">
+<br/>
+
+
 
 
 
